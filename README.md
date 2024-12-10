@@ -11,3 +11,6 @@ Tecnologias obrigatórias:
 - Java versão 11 ou superior 
 - Banco de dados relacional ou não relacional 
 - Será um diferencial: - Utilização de Docker para criação do banco de dados e mocks
+
+Images Docker
+https://hub.docker.com/u/julianofoliveira
