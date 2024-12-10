@@ -1,0 +1,6 @@
+CREATE TABLE consultas_cep (
+    id SERIAL PRIMARY KEY,
+    cep VARCHAR(10) NOT NULL,
+    resultado JSONB NOT NULL,
+    data_hora TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
